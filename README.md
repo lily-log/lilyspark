@@ -4,6 +4,8 @@
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.binarywang/java-testdata-generator/badge.svg)](https://mvnrepository.com/artifact/com.github.binarywang/java-testdata-generator)
 
 
+--芳华依存修改
+
 Java实现的各种随机测试数据生成器，包括身份证号码，银行卡号，姓名，汉字、手机号，电子邮箱地址和生成insert sql参数列表字符串等。
 
 --------------
